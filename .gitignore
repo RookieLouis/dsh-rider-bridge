@@ -1,0 +1,17 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+logs/
+coverage/
+.env
+.env.*
+!.env.example
+.dsh/
+ide-bridge/
+desktop.properties
+*.token
+*.secret
+backups/
+install-info.json
+*.tgz
